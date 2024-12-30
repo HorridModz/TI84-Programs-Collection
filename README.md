@@ -20,3 +20,6 @@ Feel free to customize this collection, as there are many programs out there (th
 # Credits
 
 Unfortunately, I did not initially intend to publish this collection, so I didn't take much care to leave credits. If I recall correctly, all programs are either created by me (*no need to give credit for those*) or from [ticalc.org](https://www.ticalc.org/pub/)). Some programs have credits within the source code or display them during execution; none of these credits have been removed by me. Note that I have **changed the names** of some of these programs, so locating them online may not be as straightforward as looking up the file name.
+
+> [!NOTE]
+> I have marked this repository with the GNU license; however, not everything is by me. I don't recall any of the third-person programs including licenses or anything of the sort, but as some of them are not my programs, I do not have the right to declare their terms of use. While this collection itself is licensed with the GNU terms, the license does not apply to the individual programs.
